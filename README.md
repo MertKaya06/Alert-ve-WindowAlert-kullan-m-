@@ -1,4 +1,4 @@
-# Alert-ve-WindowAlert-kullan-m-
+# Alert() ve WindowAlert() kullanımı
 Türkçe = Alert ve Window.Alert nasıl kullanıldığını yazdım.
 
 Alert () = Sayfa İçerisinde uyarı penceresi açar . Belirtilen uyarıyı ekranda gösterir.
